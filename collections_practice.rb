@@ -42,9 +42,7 @@ def sum_array(array)
 end
 
 def add_s(array)
-  if array[1]
-    
-  else
+  if !array[1]
     array << "s"
     
     
