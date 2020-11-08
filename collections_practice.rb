@@ -43,7 +43,7 @@ end
 
 def add_s(array)
   array.each do |key|
-    if !key.end_with?("s")
+    if !key.end_with?("t")
     key << "s"
     
   end
