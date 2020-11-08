@@ -46,7 +46,7 @@ def add_s(array)
     if !key[1]
     key << "s"
     
-    
+  end
   end
 end
 
