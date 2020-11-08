@@ -43,7 +43,7 @@ end
 
 def add_s(array)
   array.each do |key|
-    if key.
+    if key.end
     key.shit("s")
     
   end
